@@ -23,7 +23,5 @@ An AI-powered chatbot built completely with **HTML, CSS, and JavaScript** using 
 - **AI Integration**: Google Gemini API (client-side)
 - **Deployment**: Netlify
 
----
 
-## 📁 Project Structure
 
